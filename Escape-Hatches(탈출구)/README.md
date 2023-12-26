@@ -1,0 +1,10 @@
+# Escape Hatches(탈출구)
+
+1. Referencing Values with Refs (ref로 값 참조하기)
+2. Manipulating the DOM with Refs (ref로 DOM 조작하기)
+3. Synchronizing with Effects (Effect와 동기화하기)
+4. You Might Not Need an Effect (Effect가 필요하지 않을 수도 있습니다)
+5. Lifecycle of Reactive Effects (반응형 Effect의 생명주기)
+6. Separating Events from Effects (이벤트와 Effect 분리하기)
+7. Removing Effect Dependencies (Effect 의존성 제거하기)
+8. Reusing Logic with Custom Hooks (커스텀 훅으로 로직 재사용하기)
