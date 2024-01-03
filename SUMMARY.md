@@ -1,6 +1,6 @@
 # Summary
 
-[react-doc](./README.md)
+- [react-doc](./README.md)
 
 ## 학습하기
 
